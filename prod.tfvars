@@ -1,0 +1,2 @@
+rgname="rggroup"
+location="useast"
