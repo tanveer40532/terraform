@@ -1,2 +1,0 @@
-rgname="rggroup"
-location="useast"
